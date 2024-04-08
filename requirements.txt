@@ -1,4 +1,4 @@
-tensorflow==2.3.0
+tensorflow==2.16.1
 gym
 keras
-keras-r12
+keras-rl2
